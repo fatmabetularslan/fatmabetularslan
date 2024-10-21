@@ -1,5 +1,4 @@
-<h1 align="center">I'm Fatma Betül ARSLAN</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hello, I'm Fatma Betül ARSLAN</h1>
 <p align="left">
 </p>
 
